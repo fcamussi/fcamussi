@@ -87,6 +87,8 @@ Librería para programar threads en C para MSX.
 
 <img src="https://user-images.githubusercontent.com/75378876/175836223-fd2382e8-baa6-4956-8315-03707f2345bc.gif" alt="animacion-counters" width="600">
 
+Puedes encontrar información más detallada en el [repositorio del proyecto](https://github.com/fcamussi/thread4msx)
+
 ## Tecnologías
 
 * Compilador de C y asm, SDCC
