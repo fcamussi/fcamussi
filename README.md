@@ -85,10 +85,10 @@ Sistema de facturación, contabilidad, y control de stock
 
 Librería para programar threads en C para MSX.
 
-Éste proyecto es bastante personal, simplemente quería implementar multitarea apropiativa (preemptive multitasking) en una computadora MSX del año 1983! 😁 y probar algunos problemas típicos de sistemas operativos.
+Éste proyecto es bastante personal, simplemente quería implementar multitarea apropiativa (preemptive multitasking) en una computadora MSX del año 1983! 😁 con un procesador Z80 y probar algunos problemas típicos de sistemas operativos.
 
 <img src="https://user-images.githubusercontent.com/75378876/175836223-fd2382e8-baa6-4956-8315-03707f2345bc.gif" alt="animacion-counters" width="600">
 
 ## Tecnologías
 
-* Compilador cruzado de C SDCC
+* Compilador de C y asm, SDCC
