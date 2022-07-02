@@ -23,7 +23,6 @@ El conteo de plantas de girasol se realiza mediante modelos de regresión a part
 * Zoom y ROI (región de interés) para trabajar más cómodo
 * Creación de conjuntos de puntos marcados
 * Entrenamiento de nuevos modelos
-* Exportación de imagen con las plantas detectadas
 
 ## Tecnologías
 
