@@ -1,6 +1,5 @@
-#### Hola! Gracias por visitarme 😊
-
-#### A continuación encontrarás los proyectos más interesantes que he desarrollado.
+### Hola! Gracias por visitarme 😊
+### A continuación encontrarás los proyectos más interesantes que he desarrollado.
 
 # Girasol
 
