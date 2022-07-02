@@ -2,7 +2,7 @@
 
 #### A continuación encontrarás los proyectos más interesantes que he desarrollado.
 
-# conteo-girasol
+# Girasol
 
 Aplicación para el conteo de plantas de girasol en cultivos en hileras a partir de imágenes UAV.
 
