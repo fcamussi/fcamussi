@@ -1,6 +1,6 @@
-### Hola! Gracias por visitarme 😊
+#### Hola! Gracias por visitarme 😊
 
-A continuación encontrarás los proyectos más interesantes que he desarrollado.
+#### A continuación encontrarás los proyectos más interesantes que he desarrollado.
 
 # conteo-girasol
 
