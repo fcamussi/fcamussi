@@ -91,4 +91,5 @@ Puedes encontrar información más detallada en el [repositorio del proyecto](ht
 
 ## Tecnologías
 
-* Compilador de C y asm, SDCC
+* Ensamblador para Z80
+* Compilador SDCC
