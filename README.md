@@ -75,7 +75,7 @@ Sistema de facturación, contabilidad, y control de stock
 
 
 ## Tecnologías
-* Borland C++ Builder 6
+* Borland C++ Builder 6 (C++)
 * PyAfipWs
 
 
