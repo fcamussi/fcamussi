@@ -26,7 +26,13 @@ El conteo de plantas de girasol se realiza mediante modelos de regresión a part
 
 ## Tecnologías
 
-* **Python, PyQt5 (QT), OpenCV, pandas, scikit-learn, PIL, SciPy**
+* **Python
+* **PyQt5 (QT)**
+* **OpenCV**
+* **pandas**
+* **scikit-learn**
+* **PIL**
+* **SciPy**
 
 # Ventas2012
 
