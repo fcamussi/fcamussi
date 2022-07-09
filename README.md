@@ -26,7 +26,7 @@ El conteo de plantas de girasol se realiza mediante modelos de regresión a part
 
 ## Tecnologías
 
-* Python, PyQt5 (QT), OpenCV, pandas, scikit-learn, PIL, SciPy
+* **Python, PyQt5 (QT), OpenCV, pandas, scikit-learn, PIL, SciPy**
 
 # Ventas2012
 
@@ -75,8 +75,8 @@ Sistema de facturación, contabilidad, y control de stock
 
 
 ## Tecnologías
-* Borland C++ Builder 6 (C++)
-* PyAfipWs
+* **Borland C++ Builder 6 (C++)**
+* **PyAfipWs**
 
 
 # thread4msx
@@ -91,5 +91,5 @@ Puedes encontrar información más detallada en el [repositorio del proyecto](ht
 
 ## Tecnologías
 
-* Ensamblador para Z80
-* Compilador SDCC
+* **Ensamblador para Z80**
+* **Compilador SDCC**
