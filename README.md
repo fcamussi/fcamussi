@@ -8,7 +8,7 @@ Aplicación de alertas para Mercado Libre para Android.
 
 Permite agregar búsquedas para que las mismas se realicen de forma automáticas en segundo plano cada cierto intervalo de tiempo configurable y avise, mediante una notificación push, cuando se publica un árticulo nuevo que coincida con los criterios de la búsqueda.
 
-Para la búsqueda se utiliza la API de mercadolibre y permite hacer búsquedas en los diferentes sitios (países) de Mercado Libre.
+Para la búsqueda se utiliza la API de mercadolibre y permite hacer búsquedas en los diferentes sitios (países).
 
 Es una aplicación ideal para coleccionistas que buscan artículos dificil de encontrar y que se venden muy rápido.
 
