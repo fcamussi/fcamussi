@@ -20,7 +20,6 @@ Es una aplicación ideal para coleccionistas que buscan artículos dificil de en
 
 ## Requisitos para la compilación
 - **Android Studio**
-- **JDK**
 
 # Girasol
 
