@@ -1,8 +1,8 @@
 ### Hola! Gracias por visitarme 😃
-### A continuación encontrarás los proyectos 🚀 más interesantes que he desarrollado y en los que altualmente estoy trabajando.
+### A continuación encontrarás los proyectos 🚀 más interesantes que he desarrollado.
 
 
-# ML Alertas (en desarrollo)
+# ML Alertas
 
 Aplicación de alertas para Mercado Libre para Android.
 
@@ -18,7 +18,7 @@ Es una aplicación ideal para coleccionistas que buscan artículos dificil de en
 ![screenshot2](https://user-images.githubusercontent.com/75378876/185560636-e231139b-a39f-412f-88c1-c376c25bb82d.png) 
 ![screenshot3](https://user-images.githubusercontent.com/75378876/185560640-3287850e-2adb-43b9-9013-685f26f9a9f4.png)
 
-## Requisitos para la compilación
+## Tecnologías
 - **Android Studio**
 
 # Girasol
