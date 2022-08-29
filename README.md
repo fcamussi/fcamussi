@@ -21,6 +21,7 @@ Es una aplicación ideal para coleccionistas que buscan artículos dificil de en
 
 ## Tecnologías
 - **Android Studio**
+- **Java**
 
 # Girasol
 
