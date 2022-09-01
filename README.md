@@ -127,5 +127,5 @@ Puedes encontrar información más detallada en el [repositorio del proyecto](ht
 
 ## Tecnologías
 
-* Lenguaje Ensamblador para **Z80**
+* Lenguaje ensamblador para **Z80**
 * Compilador **SDCC**
