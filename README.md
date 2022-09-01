@@ -17,13 +17,15 @@ El conteo de plantas de girasol se realiza mediante modelos de regresión a part
 
 Si bien durante el trabajo se probaron diferentes métodos de regresión: Modelo lineal multivariado con mínimos cuadrados, regresión Ridge, Lasso, y SVR (Regresión de Vectores Soporte) lineal. En ésta aplicación sólo se implementó el Modelo lineal multivariado con mínimos cuadrados, el cual obtuvo un R^2 de 0.96 en la etapa de testeo.
 
+# Capturas
+
 ![screenshot1](https://user-images.githubusercontent.com/75378876/187995752-0a5a7c6e-0e21-47ce-814e-cafa629a444d.png)
 
 ![screenshot2](https://user-images.githubusercontent.com/75378876/187995764-ed08b946-d371-41e9-8180-5f5a03db4f79.png)
 
 ![screenshot3](https://user-images.githubusercontent.com/75378876/187995770-99027a5e-ee71-4993-861f-3751acb4cc66.png)
 
-## Características de la aplicación
+## Características
 
 * Detección y corrección de la orientación de la imagen
 * Detección de cada hilera
@@ -109,9 +111,9 @@ Sistema de facturación, contabilidad, y control de stock
 
 
 ## Tecnologías
-* **Borland C++ Builder 6 (C++)**
-* **PyAfipWs**
-
+* Lenguaje **C++**
+* Entonrno **Borland C++ Builder 6**
+* Librería para acceso a los webservices de la AFIP **PyAfipWs**
 
 # thread4msx
 
@@ -125,5 +127,5 @@ Puedes encontrar información más detallada en el [repositorio del proyecto](ht
 
 ## Tecnologías
 
-* **Ensamblador para Z80**
-* **Compilador SDCC**
+* Lenguaje Ensamblador para **Z80**
+* Compilador **SDCC**
