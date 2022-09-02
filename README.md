@@ -68,6 +68,8 @@ Es una aplicación ideal para coleccionistas que buscan artículos dificil de en
 
 Sistema de facturación, contabilidad, y control de stock desarrollado para la empresa N.S.A. Cereales Integrales.
 
+## Capturas
+
 ![screenshot1](https://user-images.githubusercontent.com/75378876/176060409-bb010301-6841-4b8b-b585-54d2eea3dd98.png)
 
 ![screenshot2](https://user-images.githubusercontent.com/75378876/176060412-19d319c1-f7fb-416a-b833-04c081867dd5.png)
