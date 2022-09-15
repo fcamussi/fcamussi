@@ -138,7 +138,7 @@ Sistema de facturación, contabilidad, y control de stock desarrollado para la e
 * Librería para acceso a los webservices de la AFIP **PyAfipWs**
 
 ## Fecha
-Diciembre 2009 - Septiembre 2011
+2009 - 2011
 
 Mantenimiento hasta 2015
 
@@ -159,4 +159,4 @@ Puedes encontrar información más detallada en el [repositorio del proyecto](ht
 * Compilador **SDCC**
 
 ## Fecha
-Abril 2014 - Junio 2014
+2014
