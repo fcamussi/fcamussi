@@ -42,7 +42,7 @@ Si bien durante el trabajo se probaron diferentes métodos de regresión: Modelo
 * Librería de interfaz gráfica **PyQt5 (QT)**
 
 ## Fecha
-Octubre 2020 - Junio 2022
+Octubre 2020 - Actualidad
 
 
 # ML Alertas
@@ -79,9 +79,7 @@ Es una aplicación ideal para coleccionistas que buscan artículos dificil de en
 - **Android Studio**
 
 ## Fecha
-Julio 2022 - Septiembre 2022
-
-Actualmente en mantenimiento
+Julio 2022 - Actualidad
 
 
 # Ventas2012
