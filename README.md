@@ -79,7 +79,7 @@ Es una aplicación ideal para coleccionistas que buscan artículos dificil de en
 - **Android Studio**
 
 ## Fecha
-Julio 2022 - Septiembre 2022
+Julio 2022 - Actualidad
 
 
 # Ventas2012
@@ -136,7 +136,8 @@ Sistema de facturación, contabilidad, y control de stock desarrollado para la e
 * Librería para acceso a los webservices de la AFIP **PyAfipWs**
 
 ## Fecha
-Diciembre 2009 - Septiembre 2012
+Diciembre 2009 - Septiembre 2011
+Mantenimiento hasta la actualidad
 
 
 # thread4msx
