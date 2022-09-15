@@ -41,6 +41,9 @@ Si bien durante el trabajo se probaron diferentes métodos de regresión: Modelo
 * Librería de Machine Learning **scikit-learn**
 * Librería de interfaz gráfica **PyQt5 (QT)**
 
+## Fecha
+Octubre 2020 - Junio 2022
+
 
 # ML Alertas
 
@@ -74,6 +77,9 @@ Es una aplicación ideal para coleccionistas que buscan artículos dificil de en
 ## Tecnologías
 - Lenguaje **Java**
 - **Android Studio**
+
+## Fecha
+Julio 2022 - Septiembre 2022
 
 
 # Ventas2012
@@ -129,6 +135,10 @@ Sistema de facturación, contabilidad, y control de stock desarrollado para la e
 * Entonrno **Borland C++ Builder 6**
 * Librería para acceso a los webservices de la AFIP **PyAfipWs**
 
+## Fecha
+Diciembre 2009 - Septiembre 2012
+
+
 # thread4msx
 
 Librería para programar threads en C para MSX.
@@ -143,3 +153,6 @@ Puedes encontrar información más detallada en el [repositorio del proyecto](ht
 
 * Lenguajes **C** y **ensamblador** para **Z80**
 * Compilador **SDCC**
+
+## Fecha
+Abril 2014 - Junio 2014
