@@ -139,6 +139,7 @@ Sistema de facturación, contabilidad, y control de stock desarrollado para la e
 
 ## Fecha
 Diciembre 2009 - Septiembre 2011
+
 Mantenimiento hasta 2015
 
 
