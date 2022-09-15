@@ -79,7 +79,8 @@ Es una aplicación ideal para coleccionistas que buscan artículos dificil de en
 - **Android Studio**
 
 ## Fecha
-Julio 2022 - Actualidad
+Julio 2022 - Septiembre 2022
+Actualmente en mantenimiento
 
 
 # Ventas2012
@@ -137,7 +138,7 @@ Sistema de facturación, contabilidad, y control de stock desarrollado para la e
 
 ## Fecha
 Diciembre 2009 - Septiembre 2011
-Mantenimiento hasta la actualidad
+Mantenimiento hasta 2015
 
 
 # thread4msx
