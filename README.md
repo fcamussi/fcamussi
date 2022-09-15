@@ -80,6 +80,7 @@ Es una aplicación ideal para coleccionistas que buscan artículos dificil de en
 
 ## Fecha
 Julio 2022 - Septiembre 2022
+
 Actualmente en mantenimiento
 
 
